@@ -3,6 +3,7 @@ import 'package:fluttercs24/dart/note_screen.dart';
 
 void main() {
   runApp(const MyApp());
+  // test
 }
 
 class MyApp extends StatelessWidget {
